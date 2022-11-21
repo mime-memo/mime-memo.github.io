@@ -15,3 +15,6 @@ anchored locally and historically with the help of unique linguistic and concept
 - [Jens Bjerring-Hansen](https://nors.ku.dk/english/research/projects/measuring-modernity/?pure=da/persons/195540), Department of Nordic Studies and Linguistics, University of Copenhagen (Co-PI)
 - [Daniel Hershcovich](https://danielhers.github.io/), Department of Computer Science, University of Copenhagen (Co-PI)
 - Ali Al-Laith, Department of Computer Science, University of Copenhagen (Postdoc)
+
+# Sub-projects
+- [The Unhappy Authors](https://github.com/mtm-memo/unhappy)
