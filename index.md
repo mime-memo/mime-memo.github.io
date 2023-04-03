@@ -20,4 +20,4 @@ anchored locally and historically with the help of unique linguistic and concept
 - [The Unhappy Texts](https://github.com/mime-memo/unhappy)
 
 # Publications
-[Sentiment Classification of Historical Literary Danish and Norwegian Texts.](https://openreview.net/pdf?id=dszKbb2GH3) Ali Al-Laith, Kirstine Nielsen Degn, Alexander Conroy, Bolette S. Pedersen, Jens Bjerring-Hansen and Daniel Hershcovich. [NoDaLiDa 2023](nodalida2023.fo).
+[Sentiment Classification of Historical Danish and Norwegian Literary Texts.](https://openreview.net/pdf?id=dszKbb2GH3) Ali Al-Laith, Kirstine Nielsen Degn, Alexander Conroy, Bolette S. Pedersen, Jens Bjerring-Hansen and Daniel Hershcovich. [NoDaLiDa 2023](nodalida2023.fo).
