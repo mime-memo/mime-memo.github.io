@@ -1,5 +1,5 @@
 remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Mining the Meaning and MeMo – Measuring Modernity
-description: Cross-disciplinary research projects at the University of Copenhagen on Literary and Social Change in Scandinavia 1870-1900, and Natural Language Processing methodology to investigate them.
+title: Mining the Meaning
+description: Cross-disciplinary research project at the University of Copenhagen on Literary and Social Change in Scandinavia 1870-1900, and Natural Language Processing methodology to investigate them.
