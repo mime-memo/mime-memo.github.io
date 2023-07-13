@@ -2,20 +2,6 @@ Mining the Meaning (MiMe) is a project financed by the University of Copenhagen 
 
 The MiMe project is closely related to the [Measuring Modernity (MeMo)](https://nors.ku.dk/english/research/projects/measuring-modernity/) project financed by the Carlsberg Foundation, but the two have distinct focuses. While both initiatives explore the reflections of societal change in Scandinavian literature from the same historical period, MeMo primarily focuses on the literary analysis research, investigating how Denmark and Scandinavia became modern and the role of literature in that process. On the other hand, MiMe is more oriented towards the development of computational methodology, aiming to create a higher level of abstraction in text analysis, enabling a fine-grained but large-scale investigation of various phenomena. Both projects, however, share the common goal of offering new insights into the processes of modernization in this formative period in the literary and social history of Scandinavia.
 
-# Background
-The importance of late 19th century literature in shaping today's Scandinavian cultures and
-societies is acknowledged by scholars, but the investigation of its radical nature has been limited to
-few, selected works. Conversely, computational semantics
-enjoys a large quantity of textual resources, but those are mostly in English, and are accompanied
-by only shallow annotation. We draw on literary and linguistic/nlp expertise to parse a
-first-of-its-kind historical Scandinavian corpus, consisting of 895 Danish and Norwegian novels, with
-rich semantic information, advancing both parsing technology with the use of high-quality linguistic
-resources as well as our historical understanding of the texts. The proposed methodology for
-detecting linguistic and cultural change is translatable and can be applied in other domains.
-We propose a new way of studying literary change over time, and develop an
-innovative methodology for digital literary studies by advancing relation extraction by broad-coverage semantic parsing,
-anchored locally and historically with the help of unique linguistic and conceptual resources and language technology.
-
 # People
 - [Jens Bjerring-Hansen](https://nors.ku.dk/english/research/projects/measuring-modernity/?pure=da/persons/195540), Department of Nordic Studies and Linguistics, University of Copenhagen (Co-PI)
 - [Daniel Hershcovich](https://danielhers.github.io/), Department of Computer Science, University of Copenhagen (Co-PI)
