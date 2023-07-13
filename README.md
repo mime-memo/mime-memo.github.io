@@ -1,1 +1,1 @@
-# Mining the Meaning and MeMo – Measuring Modernity
+# Mining the Meaning
