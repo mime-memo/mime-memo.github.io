@@ -17,6 +17,12 @@ The MiMe project is closely related to the [Measuring Modernity (MeMo)](https://
 # Publications
 Unhappy Texts? A Gendered and Computational Rereading of The Modern Breakthrough. Kirstine Nielsen Degn, Jens Bjerring-Hansen, Ali Al-Laith and Daniel Hershcovich. Scandinavian Studies, 2. 97, 2025 (Accepted/In press).
 
+Literary Time Travel: Distinguishing Past and Contemporary Worlds in Danish and Norwegian Fiction.
+Jens Bjerring-Hansen, Ali Al-Laith, Daniel Hershcovich, Alexander Conroy and Sebastian Ørtoft Rasmussen. [CHR 2024](https://dighumlab.org/events/chr2024-computational-humanities-research-conference/).
+
+Noise, Novels, Numbers. A Framework for Detecting and Categorizing Noise in Danish and Norwegian Literature.
+Ali Al-Laith, Daniel Hershcovich, Jens Bjerring-Hansen, Jakob Ingemann Parby, Alexander Conroy and Timothy R Tangherlini. [EMNLP 2024](https://2024.emnlp.org/).
+
 [Development and Evaluation of Pre-trained Language Models for Historical Danish and Norwegian Literary Texts.](https://aclanthology.org/2024.lrec-main.431/) Ali Al-Laith, Alexander Conroy, Jens Bjerring-Hansen and Daniel Hershcovich. [LREC-COLING 2024](https://lrec-coling-2024.org/).
 
 [Sentiment Classification of Historical Danish and Norwegian Literary Texts.](https://aclanthology.org/2023.nodalida-1.34/) Ali Al-Laith, Kirstine Nielsen Degn, Alexander Conroy, Bolette S. Pedersen, Jens Bjerring-Hansen and Daniel Hershcovich. [NoDaLiDa 2023](nodalida2023.fo).
