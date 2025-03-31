@@ -15,12 +15,18 @@ The MiMe project is closely related to the [Measuring Modernity (MeMo)](https://
 - **The Fate of the Modern Breakthrough**. The modernization processes in Scandinavia in the latter half of the 19th century changed how we perceive the world around us and existence in general, but that did not happen overnight. Through a conceptual historical analysis of the concept of skæbne (fate/destiny), this sub-project explores the dialectical relationship between pre-modern and modern perceptions of the world as it unfolds in Scandinavian literary history. The literary use of the concept reflects, on the one hand, the new secular and scientific ideals that gained ground during the period, while on the other hand, it retains the concept’s religious and metaphysical roots. With many of the novels now forgotten, the project adapts and utilizes unsupervised machine learning models to provide a conceptual overview of the period. Further, it creates annotated datasets to fine-tune and deploy language models for more fine-grained analyses.
 
 # Publications
-Unhappy Texts? A Gendered and Computational Rereading of The Modern Breakthrough. Kirstine Nielsen Degn, Jens Bjerring-Hansen, Ali Al-Laith and Daniel Hershcovich. Scandinavian Studies, 2. 97, 2025 (Accepted/In press).
+[Unhappy Texts? A Gendered and Computational Rereading of The Modern Breakthrough](https://sca.uwpress.org/content/97/1/1). Kirstine Nielsen Degn, Jens Bjerring-Hansen, Ali Al-Laith and Daniel Hershcovich. [Scandinavian Studies](https://www.jstor.org/journal/scanstud), 2. 97, 2025.
 
-Literary Time Travel: Distinguishing Past and Contemporary Worlds in Danish and Norwegian Fiction.
+[Annotating and Classifying Direct Speech in Historical Danish and Norwegian Literary Texts](https://hdl.handle.net/10062/107192).
+Ali Al-Laith, Alexander Conroy, Kirstine Nielsen Degn, Jens Bjerring-Hansen and Daniel Hershcovich. [NoDaLiDa/Baltic-HLT 2025](https://www.nodalida-bhlt2025.eu/).
+
+[Dying or Departing? Euphemism Detection for Death Discourse in Historical Texts](https://aclanthology.org/2025.coling-main.90/).
+Ali Al-Laith, Alexander Conroy, Jens Bjerring-Hansen, Bolette Pedersen, Carsten Levisen and Daniel Hershcovich. [COLING 2025](https://coling2025.org/).
+
+[Literary Time Travel: Distinguishing Past and Contemporary Worlds in Danish and Norwegian Fiction](https://ceur-ws.org/Vol-3834/paper19.pdf).
 Jens Bjerring-Hansen, Ali Al-Laith, Daniel Hershcovich, Alexander Conroy and Sebastian Ørtoft Rasmussen. [CHR 2024](https://dighumlab.org/events/chr2024-computational-humanities-research-conference/).
 
-Noise, Novels, Numbers. A Framework for Detecting and Categorizing Noise in Danish and Norwegian Literature.
+[Noise, Novels, Numbers. A Framework for Detecting and Categorizing Noise in Danish and Norwegian Literature](https://aclanthology.org/2024.emnlp-main.196/).
 Ali Al-Laith, Daniel Hershcovich, Jens Bjerring-Hansen, Jakob Ingemann Parby, Alexander Conroy and Timothy R Tangherlini. [EMNLP 2024](https://2024.emnlp.org/).
 
 [Development and Evaluation of Pre-trained Language Models for Historical Danish and Norwegian Literary Texts.](https://aclanthology.org/2024.lrec-main.431/) Ali Al-Laith, Alexander Conroy, Jens Bjerring-Hansen and Daniel Hershcovich. [LREC-COLING 2024](https://lrec-coling-2024.org/).
